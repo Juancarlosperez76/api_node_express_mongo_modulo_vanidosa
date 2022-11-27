@@ -1,0 +1,12 @@
+localhost:4646/api/usuario
+
+Opción Body
+-----------
+
+{
+  "Documento": 10183863,
+  "Nombre": "Esteban"
+}
+
+NOTA: El campo por el que vamos a buscar debe estar en primer Lugar
+

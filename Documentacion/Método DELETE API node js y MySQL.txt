@@ -1,0 +1,8 @@
+localhost:4646/api/usuario
+
+Opción Query
+------------
+
+parameter:  Documento
+value:      10183863
+
